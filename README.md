@@ -53,4 +53,12 @@ You should finish this step with a cleaned dataset called `insert name here` rea
 
 # Model Execution
 
-Now for the fun part! Open up the Jupyter Notebook titled `Rossman Dataset | Model Execution`.
+Now for the fun part! Open up the Jupyter Notebook titled `Rossman Dataset | Model Execution`. 
+
+Models are executed, and results are aggregated, in an ensemble fashion - strength in numbers! And again, the process is outlined in the notebook, and can be executed by executing each cell in a linear fashion.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f0/d9/84/f0d984083416dedfa4e7501ce9b02296.jpg"/>
+</p>
+
+
