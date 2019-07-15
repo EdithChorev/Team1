@@ -24,10 +24,14 @@ In order to produce a cleaned dataset for execution, we must combine and clean t
 This step is executed in the Jupyter Notebook titled 'Rossman Dataset | Cleaning and Feature Engineering'. The specific
 assumptions made, and engineering decisions executed are outlined throughout the notebook.
 
-Once you've cloned this repo, simply open this Notebook and follow the instructions - ensure that you execute each cell 
-in a linear order i.e. from the top of the notebook down.
+Once you've cloned this repo, simply open this Notebook and ensure that you execute each cell 
+in a linear order i.e. from the top of the notebook down. Just make sure you read the instructions!
+
+![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.chzbgr.com%2Ffull%2F8396877568%2FhDEBA606B%2F&imgrefurl=https%3A%2F%2Fcheezburger.com%2F8396877568&docid=FU0RHtmSTKGQYM&tbnid=z3XM6yDILE8OGM%3A&vet=10ahUKEwjxpbHsvrbjAhVDRxUIHVhqCYsQMwhUKBIwEg..i&w=376&h=304&safe=off&bih=825&biw=1440&q=%20read%20the%20instructions%20meme&ved=0ahUKEwjxpbHsvrbjAhVDRxUIHVhqCYsQMwhUKBIwEg&iact=mrc&uact=8)
 
 You will finish this step with a cleaned dataset ready for model execution.
 
 
 # Model Execution
+
+Now we're ready to 
