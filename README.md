@@ -13,6 +13,7 @@ So what are you waiting for? Clone this repositary to your local machine and fol
 sales predictions for Rossman Stores.
 
 
+
 # Data Cleaning and Feature Engineering
 
 In order to produce a cleaned dataset for execution, we combine and clean the following files:
@@ -33,6 +34,7 @@ in a linear order i.e. from the top of the notebook down. And make sure you read
 
 
 You should finish this step with a cleaned dataset called `insert name here` ready for model execution.
+
 
 
 # Model Execution
