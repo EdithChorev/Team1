@@ -16,7 +16,8 @@ sales predictions for Rossman Stores.
 
 # Requirements
 
-First, let's check you have everything you need! This repo is dependent upon the following packages:
+First, let's check you have everything you need! This project was developed using `Python 3.7.1` with the following requirements:
+
 
 
 
