@@ -24,7 +24,7 @@ pandas==0.24.2
 scikit-learn==0.20.1
 tensorflow==1.13.1
 ```
-
+The requirements.txt file is accesible [here](https://github.com/EdithChorev/Team1/blob/master/requirements.txt) also.
 
 
 
