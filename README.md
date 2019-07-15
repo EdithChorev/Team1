@@ -47,7 +47,7 @@ in a linear order i.e. from the top of the notebook down. Just make sure you rea
 </p>
 
 
-You should finish this step with a cleaned dataset called `insert name here` ready for model execution.
+You should finish this step with a cleaned dataset called `cleaned_rossman_test_data.csv` ready for model execution.
 
 
 
