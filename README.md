@@ -14,6 +14,20 @@ sales predictions for Rossman Stores.
 
 
 
+# Requirements
+
+First, let's check you have everything you need! This project was developed using `Python 3.7.1` with the following requirements:
+
+```
+numpy==1.15.4
+pandas==0.24.2
+scikit-learn==0.20.1
+tensorflow==1.13.1
+```
+The requirements.txt file is accesible [here](https://github.com/EdithChorev/Team1/blob/master/requirements.txt) also.
+
+
+
 # Data Cleaning and Feature Engineering
 
 In order to produce a cleaned dataset for execution, we combine and clean the following files:
@@ -39,4 +53,12 @@ You should finish this step with a cleaned dataset called `insert name here` rea
 
 # Model Execution
 
-Now for the fun part! Open up the Jupyter Notebook titled `Rossman Dataset | Model Execution`.
+Now for the fun part! Open up the Jupyter Notebook titled `Rossman Dataset | Model Execution`. 
+
+Models are executed, and results are aggregated, in an ensemble fashion - strength in numbers! And again, the process is outlined in the notebook, and can be executed by executing each cell in a linear fashion.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f0/d9/84/f0d984083416dedfa4e7501ce9b02296.jpg"/>
+</p>
+
+
