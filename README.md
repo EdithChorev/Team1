@@ -27,7 +27,7 @@ assumptions made, and engineering decisions executed are outlined throughout the
 Once you've cloned this repo, simply open this Notebook and ensure that you execute each cell 
 in a linear order i.e. from the top of the notebook down. Just make sure you read the instructions!
 
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.chzbgr.com%2Ffull%2F8396877568%2FhDEBA606B%2F&imgrefurl=https%3A%2F%2Fcheezburger.com%2F8396877568&docid=FU0RHtmSTKGQYM&tbnid=z3XM6yDILE8OGM%3A&vet=10ahUKEwjxpbHsvrbjAhVDRxUIHVhqCYsQMwhUKBIwEg..i&w=376&h=304&safe=off&bih=825&biw=1440&q=%20read%20the%20instructions%20meme&ved=0ahUKEwjxpbHsvrbjAhVDRxUIHVhqCYsQMwhUKBIwEg&iact=mrc&uact=8)
+![alt text](https://i.chzbgr.com/full/8396877568/hDEBA606B/)
 
 You will finish this step with a cleaned dataset ready for model execution.
 
