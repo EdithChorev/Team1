@@ -18,8 +18,8 @@ sales predictions for Rossman Stores.
 
 In order to produce a cleaned dataset for execution, we must combine and clean the following files:
 
-* A .csv file with characteristics of each Rossman store, this file is called: store.csv
-* A .csv file with daily sales and activity data for each Rossman store, this file is called: test_set.csv
+* A .csv file with characteristics of each Rossman store, this file is called: `store.csv`
+* A .csv file with daily sales and activity data for each Rossman store, this file is called: `test_set.csv`
 
 This step is executed in the Jupyter Notebook titled 'Rossman Dataset | Cleaning and Feature Engineering'. The specific
 assumptions made, and engineering decisions executed are outlined throughout the notebook.
@@ -27,9 +27,11 @@ assumptions made, and engineering decisions executed are outlined throughout the
 Once you've cloned this repo, simply open this Notebook and ensure that you execute each cell 
 in a linear order i.e. from the top of the notebook down. Just make sure you read the instructions!
 
+
 <p align="center">
   <img src="https://i.chzbgr.com/full/8396877568/hDEBA606B/"/>
 </p>
+
 
 You will finish this step with a cleaned dataset ready for model execution.
 
