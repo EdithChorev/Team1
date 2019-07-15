@@ -14,6 +14,12 @@ sales predictions for Rossman Stores.
 
 
 
+# Requirements
+
+First, let's check you have everything you need! This repo is dependent upon the following packages:
+
+
+
 # Data Cleaning and Feature Engineering
 
 In order to produce a cleaned dataset for execution, we combine and clean the following files:
