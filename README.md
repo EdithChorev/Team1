@@ -18,10 +18,12 @@ sales predictions for Rossman Stores.
 
 First, let's check you have everything you need! This project was developed using `Python 3.7.1` with the following requirements:
 
-`numpy==1.15.4
+```
+numpy==1.15.4
 pandas==0.24.2
 scikit-learn==0.20.1
-tensorflow==1.13.1`
+tensorflow==1.13.1
+```
 
 
 
