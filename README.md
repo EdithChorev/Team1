@@ -24,8 +24,8 @@ In order to produce a cleaned dataset for execution, we combine and clean the fo
 This step is executed in the Jupyter Notebook titled `Rossman Dataset | Cleaning and Feature Engineering`. The specific
 assumptions made, and engineering decisions executed are outlined throughout the notebook.
 
-Once you've cloned this repo, simply open this Notebook and ensure that you execute each cell 
-in a linear order i.e. from the top of the notebook down. And make sure you read the instructions!
+Once you've cloned this repo, simply open this Notebook and execute each cell 
+in a linear order i.e. from the top of the notebook down. Just make sure you read the instructions!
 
 
 <p align="center">
