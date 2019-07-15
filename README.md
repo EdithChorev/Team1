@@ -1,4 +1,4 @@
-# How many sales will a Rossman Store have on any given day?
+# How many sales will any given Rossman Store have?
 
 Welcome to Team One's Rossman Store Sales Model! This Repo allows you to take Rossman Store data and output accurate
 sales predictions for any given Rossman Store on any given day. Magic!
@@ -61,4 +61,4 @@ Models are executed, and results are aggregated, in an ensemble fashion - streng
   <img src="https://i.pinimg.com/originals/f0/d9/84/f0d984083416dedfa4e7501ce9b02296.jpg"/>
 </p>
 
-How'd we go? The results might be a tad off but at least we get meme points.. right?
+How'd we go? The results might be a tad off... but at least we get meme points.. right?
